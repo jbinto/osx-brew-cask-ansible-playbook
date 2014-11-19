@@ -5,6 +5,7 @@
   - role: osxc.packages
     brew_taps:
     - caskroom/fonts
+    - caskroom/versions
     brew_packages:
     - atool
     - chruby
@@ -50,7 +51,7 @@
     - shiftit
     - smcfancontrol
     - spotify
-    - sublime-text
+    - sublime-text3
     - vagrant
     - virtualbox
     - vlc
