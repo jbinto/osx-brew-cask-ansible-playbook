@@ -50,8 +50,8 @@
     - smcfancontrol
     - spotify
     - sublime-text
-    - truecrypt
     - vagrant
     - virtualbox
     - vlc
     - xbmc
+    - xquartz   # needed by shiftit
