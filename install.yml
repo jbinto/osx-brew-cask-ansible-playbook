@@ -6,14 +6,52 @@
     brew_taps:
     - caskroom/fonts
     brew_packages:
-    - git
-    - zsh
-    - vim
-    - the_silver_searcher
+    - atool
+    - chruby
+    - cloc
+    - cowsay
     - ctags
+    - fortune
+    - git
+    - htop-osx
+    - hub
+    - iftop
+    - mtr
+    - netcat
+    - nmap
+    - openssl
+    - postgresql
+    - python
     - reattach-to-user-namespace
+    - ruby-install
+    - the_silver_searcher
     - tmux
+    - tree
+    - unrar
+    - vim
+    - watch
+    - weechat
+    - zsh
     cask_packages:
+    - alfred
+    - calibre
+    - dash
+    - dropbox
+    - evernote
+    - firefox
+    - flux
     - font-inconsolata-for-powerline
+    - google-chrome
+    - grandperspective
     - iterm2
-    - macvim
+    - keepassx
+    - picasa
+    - shiftit
+    - smcfancontrol
+    - spotify
+    - sublime-text
+    - truecrypt
+    - vagrant
+    - virtualbox
+    - vlc
+    - xbmc
